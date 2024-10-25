@@ -1,0 +1,92 @@
+[
+    {
+        "playerId": 1,
+        "name": "Sakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/QNRjq6K/shakib-al-hasan-smiling-8olow941lckcha6b.webp",
+        "role": "All Rounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 12000000
+    },
+    {
+        "playerId": 2,
+        "name": "Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/6wgJ2m3/mahmudullah-riyad-by-jahidsoton-dbc6i6s-pre.jpg",
+        "role": "All Rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 12500000
+    },
+    {
+        "playerId": 3,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/Dzx3pmN/cricket-star-virat-kohli-urrltjsrrzxgwip2.webp",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 15000000
+    },
+    {
+        "playerId": 4,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/FDwTWRr/indian-cricket-jasprit-bumrah-and-virat-kohli-oa8xlcxka6ulhzpa.webp",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 18000000
+    },
+    {
+        "playerId": 5,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/RyYSgCK/babar-azam-in-white-pepsi-uniform-1eesm8g6i7zahdl5.webp",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 13000000
+    },
+    {
+        "playerId": 6,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/30gN47T/321551-424674660.webp",
+        "role": "Bowler",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 16000000
+    },
+    {
+        "playerId": 7,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/ygrpJb1/new-zealand-cricket-star-kane-williamson-3bptnocb06mr3lz4.webp",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 11000000
+    },
+    {
+        "playerId": 8,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/TBGcF7M/382177.webp",
+        "role": "Bowler",
+        "battingType": "Left-handed",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 17000000
+    },
+    {
+        "playerId": 9,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/qFPnVrv/26184210181bb48.jpg",
+        "role": "All Rounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": 14000000
+    }
+]
