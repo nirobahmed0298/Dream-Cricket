@@ -1,4 +1,4 @@
-
+import logo from '../../assets/logo.png'
 import PropTypes from 'prop-types';
 const Header = ({coin}) => {
     return (
@@ -29,7 +29,7 @@ const Header = ({coin}) => {
                             <li><a>Schedules</a></li>
                         </ul>
                     </div>
-                    <a className="text-xl hidden md:block"><img src="/src/assets/logo.png" alt="" /></a>
+                    <a className="text-xl hidden md:block"><img src={logo} alt="" /></a>
                 </div>
                 <div className="navbar-end">
                 <div className="mr-5 hidden lg:flex items-center">
