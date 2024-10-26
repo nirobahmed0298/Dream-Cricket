@@ -1,7 +1,8 @@
 
+import PropTypes from 'prop-types';
 const Header = ({coin}) => {
     return (
-        <div>
+        <header className='sticky top-0 backdrop-blur-xl z-50'>
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -42,8 +43,10 @@ const Header = ({coin}) => {
                     <a className="btn border-2 px-2 py-1 lg:px-5 lg:py-2 rounded-md font-bold"><span className="font-normal">{coin}</span> Coin <img className="w-6 h-6" src="https://img.icons8.com/?size=100&id=sPBQkuep9vDA&format=png&color=000000" alt="" /></a>
                 </div>
             </div>
-        </div>
+        </header>
     );
 };
-
+Header.propTypes={
+    coin:PropTypes.number,
+}
 export default Header;
