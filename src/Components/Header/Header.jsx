@@ -2,7 +2,7 @@ import logo from '../../assets/logo.png'
 import PropTypes from 'prop-types';
 const Header = ({coin}) => {
     return (
-        <header className='sticky top-0 backdrop-blur-xl z-50'>
+        <header className='sticky top-0 backdrop-blur-xl z-10'>
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
                     <div className="dropdown">
